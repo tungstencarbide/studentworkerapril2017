@@ -33,7 +33,7 @@
     },
     {
         "balance": 4414,
-        'type': "checking",
+        "type": "checking",
         "name": {
             "last": "Coldren",
             "first": "Alissa"
@@ -82,7 +82,7 @@
     {
         "balance": -8559,
         "type": "checking",
-        "name":
+        "name": {
             "last": "Peet",
             "first": "Elinor"
         }
@@ -152,7 +152,7 @@
         }
     },
     {
-        "balance": 936
+        "balance": 936,
         "type": "checking",
         "name": {
             "last": "Birchfield",
